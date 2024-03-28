@@ -16,20 +16,21 @@ $ **pip install xyz**
 
 # BTW TO RUN CODE IN TERMUX
 
-``pkg install git -y``
-``pkg install python -y``
+```pkg install git -y``
+   pkg install python -y```
 
 # Now Pip's
 
 
-``pip install discord``
-``pip instalk discord.py``
-``pip install colorama``
+```pip install discord```
+```pip instalk discord.py```
+```pip install colorama```
 
 **RUN**
+
 ``python 777.py``
 
-> Bot Token : "put your bot token"
+```> Bot Token : "put your bot token"```
 
 ~~I think thats it?~~
 
