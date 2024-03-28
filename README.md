@@ -33,7 +33,7 @@ $ **pip install xyz**
 
 ``python 777.py``
 
-```> Bot Token : "put your bot token"```
+> Bot Token : "put your bot token"
 
 ~~I think thats it?~~
 
