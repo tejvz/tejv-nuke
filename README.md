@@ -17,15 +17,15 @@ $ **pip install xyz**
 # BTW TO RUN CODE IN TERMUX
 
 ``pkg install git -y``
-↓
-   ``pkg install python -y``
+ 
+``pkg install python -y``
 
 # Now Pip's
 
 
 ```pip install discord```
 
-```pip instalk discord.py```
+```pip install discord.py```
 
 ```pip install colorama```
 
