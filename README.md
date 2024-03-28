@@ -39,3 +39,13 @@ $ **pip install xyz**
 
 ENJOY!! 🫡 free tips and nuke
 
+# HOW TO NUKE? HELP?
+
+1. Go To Discord
+2. Add Bot To Discord Server
+3. Go To Any Channel
+4. Type >help/.help/?help/$help
+5. To Nuke Simple Type
+6. ">tej" / ".tej" / "$tej" / "?tej"
+
+**HAVE A NICE DAY/NUKE 👋🏻**
