@@ -1,19 +1,3 @@
-**STARTER TIPS**
-
-**module error = pip install {module error}
-for example**
-
-*line 69*
-
-**import xyz**
-
-            <module>
-            'xyz'
-            
-   _then do_
-
-$ **pip install xyz**
-
 # BTW TO RUN CODE IN TERMUX
 
 ``pkg install git -y``
@@ -48,4 +32,4 @@ ENJOY!! 🫡 free tips and nuke
 5. To Nuke Simple Type
 6. ">tej" / ".tej" / "$tej" / "?tej"
 
-**HAVE A NICE DAY/NUKE 👋🏻**
+**HAVE A NICE DAY & NUKE 👋🏻**
