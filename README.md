@@ -1,4 +1,4 @@
-# BTW TO RUN CODE IN TERMUX
+# TO RUN CODE IN TERMUX
 
 ``pkg install git -y``
  
@@ -8,8 +8,6 @@
 
 
 ```pip install discord```
-
-```pip install discord.py```
 
 ```pip install colorama```
 
