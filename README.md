@@ -4,8 +4,11 @@
  
 ``pkg install python -y``
 
-# Now Pip's
+``git clone https://github.com/tejvz/tejv-nuke.git``
 
+``cd tejv-nuke``
+
+# Now Pip's
 
 ```pip install discord```
 
