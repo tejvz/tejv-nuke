@@ -22,7 +22,7 @@
 
 ~~I think thats it?~~
 
-ENJOY!! 🫡 free tips and nuke
+ENJOY!! 🫡 easy installation
 
 # HOW TO NUKE? HELP?
 
