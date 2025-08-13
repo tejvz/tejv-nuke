@@ -25,11 +25,11 @@ ENJOY!! 🫡 easy installation
 
 # HOW TO NUKE? HELP?
 
-  Go To Discord
-  Add Bot To Discord Server
-  Go To Any Channel
-  Type >help/.help/?help/$help
-  To Nuke Type
-  ">tej" / ".tej" / "$tej" / "?tej"
+Go To Discord
+Add Bot To Discord Server
+Go To Any Channel
+Type >help/.help/?help/$help
+To Nuke Type
+">tej" / ".tej" / "$tej" / "?tej"
 
 **HAVE A NICE DAY & NUKE 👋🏻**
