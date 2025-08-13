@@ -4,9 +4,8 @@
 pkg install git -y
 pkg install python -y
 git clone https://github.com/tejvz/tejv-nuke.git
+cd tejv-nuke
 ```
-
-``cd tejv-nuke``
 
 # Now Pip's
 
