@@ -1,10 +1,10 @@
 # TO RUN CODE IN TERMUX
 
-``pkg install git -y``
- 
-``pkg install python -y``
-
-``git clone https://github.com/tejvz/tejv-nuke.git``
+```
+pkg install git -y
+pkg install python -y
+git clone https://github.com/tejvz/tejv-nuke.git
+```
 
 ``cd tejv-nuke``
 
