@@ -33,7 +33,7 @@ Go To Any Channel
 
 Type >help/.help/?help/$help
 
-To Nuke Type
+To Nuke Simply Type
 
 ">tej" / ".tej" / "$tej" / "?tej"
 
