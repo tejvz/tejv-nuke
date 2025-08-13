@@ -28,8 +28,8 @@ ENJOY!! 🫡 easy installation
 > Go To Discord
 > Add Bot To Discord Server
 > Go To Any Channel
-> Type >help/.help/?help/$help
+  Type >help/.help/?help/$help
 > To Nuke Type
-> ">tej" / ".tej" / "$tej" / "?tej"
+  ">tej" / ".tej" / "$tej" / "?tej"
 
 **HAVE A NICE DAY & NUKE 👋🏻**
