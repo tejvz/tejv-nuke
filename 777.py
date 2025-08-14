@@ -148,17 +148,12 @@ async def on_ready():
   await client.change_presence(activity=discord.Game       (name= "darkness.py"))
 
 print('''
-
-
   ____________    ___    __
  /_  __/ ____/   / / |  / /
   / / / __/ __  / /| | / / 
  / / / /___/ /_/ / | |/ /  
 /_/ /_____/\____/  |___/   
 https://github.com/tejvz
-                           
-
-HOGYA LOGIN ! AB KAR LA NUKE
 
 ''')
 
@@ -338,13 +333,13 @@ async def help(ctx, *args):
 
     await ctx.message.delete()
 
-    retStr = str("""```fix\n❄️ >tej - nukes server\n\n❄️ >ban - banall (non threaded)\n\n❄️ |>kick - kickall\n\n❄️ >roles - spams roles\n\n❄️ >emojidel - deletes emojis\n\n❄️ >dmall - dms everyone in guild\n\n❄️ >name - changes guild name\n\n❄️ >admin - gives all admin ```""")
+    retStr = str("""```fix\n❄️ >tej - nukes server\n\n❄️ >ban - banall\n\n❄️ >kick - kickall\n\n❄️ >roles - spams roles\n\n❄️ >emojidel - deletes emojis\n\n❄️ >dmall - dms everyone in guild\n\n❄️ >name - changes guild name\n\n❄️ >admin - gives all admin ```""")
 
     embed = discord.Embed(color=0xfffafa,title="Discord Nuker ❄️")
 
     embed.add_field(name="Help ⚠️",value=retStr)
 
-    embed.set_footer(text=f'TEJV')
+    embed.set_footer(text=f'@tejv | dsc.gg/tejv')
 
 
 
