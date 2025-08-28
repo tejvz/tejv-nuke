@@ -7,6 +7,15 @@ git clone https://github.com/tejvz/tejv-nuke.git
 cd tejv-nuke
 ```
 
+# TO RUN CODE IN LINUX
+
+```
+apt install git -y
+apt install python -y
+git clone https://github.com/tejvz/tejv-nuke.git
+cd tejv-nuke
+```
+
 # Now Pip's
 
 ```pip install discord```
@@ -37,4 +46,8 @@ To Nuke Simply Type
 
 ">tej" / ".tej" / "$tej" / "?tej"
 
+
 **HAVE A NICE DAY & NUKE 👋🏻**
+
+# Tutorial
+Video - https://youtu.be/6sIl-wPbdEA
